@@ -26,14 +26,17 @@ AIM: What is Difference between ListView and RecyclerView? Create SMS Android Ap
 
 ### Light Mode :
 
-![light1](https://user-images.githubusercontent.com/110655668/196243404-e3f3c316-1704-4b31-9f0e-f0eb80245ea3.jpg)
-![light2](https://user-images.githubusercontent.com/110655668/196243424-17333073-c5f6-423c-9eae-c6b2ae6454a1.jpg)
-![light3](https://user-images.githubusercontent.com/110655668/196243441-666c7ef2-c752-41d9-9316-a831f0b52174.jpg)
+![light1](https://user-images.githubusercontent.com/110655668/196244327-7f34a353-4afd-42c0-b3ac-9f96d52651e6.jpg)
+![light2](https://user-images.githubusercontent.com/110655668/196244338-1a995a8a-0f57-4e79-b0b9-a46ebdf70758.jpg)
+![light3](https://user-images.githubusercontent.com/110655668/196244343-78e50369-0cea-45ee-b0aa-eaf1f8c99951.jpg)
+
+
 
 
 ### Dark Mode :
 
-![dark1](https://user-images.githubusercontent.com/110655668/196243469-8d16d813-07ef-4c1f-a9d8-0bea66d7f60b.jpg)
-![dark2](https://user-images.githubusercontent.com/110655668/196243497-405ce260-c9a6-425a-9997-b1ee3ef3d186.jpg)
-![dark3](https://user-images.githubusercontent.com/110655668/196243508-c3c65e7e-0fdf-4863-aed6-6c8259723ba6.jpg)
+![dark1](https://user-images.githubusercontent.com/110655668/196244368-dab407bf-d058-41c1-a88c-ce00d6fc8137.jpg)
+![dark2](https://user-images.githubusercontent.com/110655668/196244372-4f9ce8c1-ad35-4b8a-a799-255568ca512c.jpg)
+![dark3](https://user-images.githubusercontent.com/110655668/196244375-7f818f5a-9b29-4d82-b5b1-57cdabfd5ed0.jpg)
+
 
