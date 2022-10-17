@@ -32,6 +32,7 @@ AIM: What is Difference between ListView and RecyclerView? Create SMS Android Ap
 
 
 ### Dark Mode :
+
 ![dark1](https://user-images.githubusercontent.com/110655668/196243469-8d16d813-07ef-4c1f-a9d8-0bea66d7f60b.jpg)
 ![dark2](https://user-images.githubusercontent.com/110655668/196243497-405ce260-c9a6-425a-9997-b1ee3ef3d186.jpg)
 ![dark3](https://user-images.githubusercontent.com/110655668/196243508-c3c65e7e-0fdf-4863-aed6-6c8259723ba6.jpg)
