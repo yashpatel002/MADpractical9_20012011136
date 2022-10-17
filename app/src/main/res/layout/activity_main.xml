@@ -86,5 +86,4 @@
             android:src="@drawable/ic_baseline_send_24"/>
 
     </LinearLayout>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
